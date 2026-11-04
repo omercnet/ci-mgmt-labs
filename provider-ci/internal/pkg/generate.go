@@ -12,8 +12,8 @@ import (
 	"text/template"
 
 	"github.com/Masterminds/sprig"
-	"github.com/pulumi-labs/ci-mgmt/provider-ci/internal/pkg/contract"
-	"github.com/pulumi-labs/ci-mgmt/provider-ci/internal/pkg/migrations"
+	"github.com/omercnet/ci-mgmt-labs/provider-ci/internal/pkg/contract"
+	"github.com/omercnet/ci-mgmt-labs/provider-ci/internal/pkg/migrations"
 	"gopkg.in/yaml.v3"
 )
 

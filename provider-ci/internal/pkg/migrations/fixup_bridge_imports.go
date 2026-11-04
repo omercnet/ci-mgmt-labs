@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pulumi-labs/ci-mgmt/provider-ci/internal/pkg/contract"
+	"github.com/omercnet/ci-mgmt-labs/provider-ci/internal/pkg/contract"
 )
 
 //go:embed fixup_bridge_imports.patch
