@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/pulumi-labs/ci-mgmt/provider-ci/internal/pkg/contract"
+	"github.com/omercnet/ci-mgmt-labs/provider-ci/internal/pkg/contract"
 )
 
 type Migration interface {

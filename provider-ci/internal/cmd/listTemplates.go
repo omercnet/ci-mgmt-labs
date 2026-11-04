@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/pulumi-labs/ci-mgmt/provider-ci/internal/pkg"
+	"github.com/omercnet/ci-mgmt-labs/provider-ci/internal/pkg"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v3"
 )
